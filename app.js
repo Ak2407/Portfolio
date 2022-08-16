@@ -3,7 +3,7 @@ window.addEventListener("load", bindEvents);
 
 function bindEvents()
 {
-    setTimeout(depreload, 000);
+    setTimeout(depreload, 5000);
 
     //For the cursor effect using github library
     var typed = new Typed("#namaste", {
